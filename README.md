@@ -1,2 +1,3 @@
-# GenPred_1
-Genomic Prediction Machines 
+## SMR-GWAS: Single marker regression GWAS
+
+
