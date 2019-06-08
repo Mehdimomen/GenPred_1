@@ -1,5 +1,5 @@
 ## SMR-GWAS: Single marker regression GWAS
 **Fixed Regressions**
 ----------------------------------------------------------------
-  - [BLUP Regression](https://github.com/Mehdimomen/GenPred_1/blob/master/GWAS_Singlemarker.html)
+  - [BLUP Regression](https://github.com/Mehdimomen/GenPred_1/master/GWAS_Singlemarker.html)
 
